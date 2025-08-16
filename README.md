@@ -4,7 +4,7 @@
 
 ##  Features
 
-- Built with TypeScript and Vite for fast, modular development
+- Built with react and Vite for fast, modular development
 - Tailwind CSS for utility-first responsive UI
 - Includes structured folders for `public`, `src`, and `server`
 - Configured with ESLint, PostCSS, and TypeScript tooling
